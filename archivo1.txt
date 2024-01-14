@@ -1,2 +1,11 @@
-chanchito feliz
-chanchito feliz
+Git comands:
+limpiar: Clear
+Ver material del archivo: cat
+Ver estatus: git status
+agregar cambios de documentacion: git add (nombre del archivo)
+confirmar cambios: git commit -m "motivo"
+ver la rama en la que estoy: git branch
+cambiar de rama: git checkout -b (ramab)
+historial de cambios: git log --oneline
+agregar repositorio de git: git remote add origin (link)
+publicar: git push -u origin (nombre de la rama principal)
